@@ -14,9 +14,11 @@ How to Run the Project
 2. Open the file `index.html` in any web browser
 
 Pagination Explanation
+
 The landing page uses section-based pagination. Each section takes full screen height and snaps while scrolling. It also takes into account mobile phone screens, for better working and functionality. Dot navigation is added to indicate the current section and allow users to navigate between sections. JavaScript is used to detect scroll position and update the active pagination dot.
 
 Design Decisions
+
 -Simple and clean layout for better readability
 -Full screen sections to focus user attention
 -Responsive design for mobile, tablet, and desktop screens
