@@ -1,5 +1,6 @@
 # ITVE Landing Page Redesign
 Project Overview
+
 This project is a redesigned landing page for the Institutes of Technical & Vocational Education (ITVE).
 The aim was to create a clean, modern, and easy-to-use landing page for students. As a first year student, using advanced Javascript or CSS was not possible, as I havent learned it yet. However, through multiple searches and browsing, I was able to learn the basics of both languages and create a better project. Pagination was a relatively new concept for me as well, but I tried my best to ensure the best work.
 
