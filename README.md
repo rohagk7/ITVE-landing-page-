@@ -11,7 +11,7 @@ Tech Stack Used
 
 How to Run the Project
 1. Download or clone the repository
-2. Open the file `index.html` in any web browser
+2. Open the file `main.html` in any web browser
 
 Pagination Explanation
 
